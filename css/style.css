@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Cinzel|Source+Serif+Pro&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+font-family: 'Cinzel', serif;
+font-size: 18px;
+margin: 0px;
+color: #dca9c7;
+}
+h1,h2,h3 {
+font-family: 'Source Serif Pro', serif;
+font-weight: lighter;
+}
+a {
+text-decoration: none;
+}
